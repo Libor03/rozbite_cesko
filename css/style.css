@@ -1,0 +1,30 @@
+h2 {
+    background-color: rgb(182, 59, 59);
+    color: white;
+    font-size: 1.5em;
+    padding: 0.5em;
+    text-transform: uppercase;
+}
+
+h3 {
+    color: rgb(206, 23, 54);
+    font-size: 1.2em;
+    margin: 0.5em 0;
+}
+
+.poznamka {
+    background-color: #ddd;
+    font-size: 0.9em;
+    padding: 0.5em;
+}
+
+h1 small {
+    color: rgba(0,0,0,0.5);
+    text-transform: uppercase;
+    font-size: 0.6em;
+    padding: 0.3em;
+}
+
+nav.navbar-dark {
+    background-color:  rgba(0,0,0,0.5) !important;
+}
