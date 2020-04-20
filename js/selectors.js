@@ -86,6 +86,12 @@ $(function(){
         $('#pryc').hide(1);
         $('#luc').html('<strong><big><big><big>Marek Lučný</strong></big></big></big>');
         $('#fact').html('<strong><big><big><big>Úžasný učitel</strong></big></big></big>');
+        $('img:last').attr('src', 'img/cina.png');
+        $('#matika').html('Geometrie');
+        $('figcaption:last').html('Poloha Čínské republiky<br /><small>Autor: NuclearVacuum – File:Location European nation states.svg, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=8105100</small>')
+        $('#cinane').html('Číňané<span class="badge badge-primary badge-pill">64,3 %</span>');
+        $('#mesto').html('Opava');
+        $('#sspu').html('republika Střední Školy Průmyslové a umělecké v Opavě');
 
     });
 })
